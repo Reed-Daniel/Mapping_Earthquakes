@@ -10,4 +10,4 @@ The objective of this project was to use earthquake GeoJSON data from the USGS A
 ## Results
 
 ### Link to Interactive Maps webpage
-The deployed webpage is accessible at [Earthquake Map](https://reed-daniel.github.io/Mapping_Earthquakes).
+The deployed webpage is accessible at [Earthquake Map](https://reed-daniel.github.io/Mapping_Earthquakes/).
